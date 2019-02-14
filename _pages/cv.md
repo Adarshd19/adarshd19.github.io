@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2020 (expected)
+  * Thesis topics: Preference learning and algorithmic fairness
 * M.S. in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2017
 * B.S. in mathematics (minors in statistics and computer science), University of Michigan--Dearborn, 2009-2013
 
