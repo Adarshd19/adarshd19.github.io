@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in mathematics (minors in statistics and computer science), University of Michigan--Dearborn, 2013
-* M.S. in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2017
-* Ph.D in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2020 (expected)
+* B.S. in mathematics (minors in statistics and computer science), University of Michigan--Dearborn, 2009-2013
+* M.S. in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2017
+* Ph.D in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2020 (expected)
 
 Teaching and research experience
 ======
