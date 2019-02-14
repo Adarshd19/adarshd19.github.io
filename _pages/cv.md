@@ -28,23 +28,15 @@ taught a python tutorial, graded exams, and answered questions on an online foru
   * Description: Course assistant and mentor to talented high school students for a 2 week math and art course.
   * Instructor: Martin Strauss
   
-* Summer 2013: Institute for Pure and Applied Math Research in Industrial Projects for Students at the Unversity of California--Los Angeles
+* Summer 2013: Institute for Pure and Applied Math Research in Industrial Projects for Students
+  * Unversity of California--Los Angeles
   * Description: Project manager of a research project whose goal was to improve the search algorithm used by the University of Southern California Shoah Foundation for video testimonies of survivors of the Holocaust and other genocides.
   * Advisor: Zicong Zhou
   
 * Summer 2012: Williams College SMALL Research Experience for Undergraduates
+  * Williams College
   * Description: Researcher in number theory and probability.
   * Advisor: Stephen J. Miller
-
-  
-Skills
-======
-* python
-  * sklearn
-  * numpy
-  * pandas
-* git
-* Familiarity with JavaScript, SQL
 
 Publications
 ======
@@ -58,11 +50,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Fellowships, honors, and awards
 ======
@@ -75,4 +62,13 @@ Fellowships, honors, and awards
 Service and leadership
 ======
 * Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms.
+
+Skills
+======
+* python
+  * sklearn
+  * numpy
+  * pandas
+* git
+* Familiarity with JavaScript, SQL
 
