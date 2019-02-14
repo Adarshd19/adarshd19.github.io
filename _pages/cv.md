@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in mathematics (minors in statistics and computer science), University of Michigan--Dearborn, 2009-2013
-* M.S. in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2017
 * Ph.D in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2020 (expected)
+* M.S. in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2017
+* B.S. in mathematics (minors in statistics and computer science), University of Michigan--Dearborn, 2009-2013
 
 Teaching and research experience
 ======
@@ -44,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -58,7 +58,6 @@ Fellowships, honors, and awards
 * University of Michigan--Dearborn Chancellor's medallion, 2013
 * University of Michigan--Dearborn Chancellor's scholarship, 2009
 
-
 Service and leadership
 ======
 * Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms.
@@ -71,4 +70,7 @@ Skills
   * pandas
 * git
 * Familiarity with JavaScript, SQL
+
+Summer Schools and Workshops
+======
 
