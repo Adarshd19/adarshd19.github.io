@@ -63,7 +63,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Fellowships, honors, and awards
+======
+* National Science Foundation Graduate Research Fellowship, 2015
+* University of Michigan--Ann Arbor Rackham Merit Fellowhsip, 2014
+* University of Michigan--Dearborn Chancellor's medallion, 2013
+* University of Michigan--Dearborn Chancellor's scholarship, 2009
+
+
 Service and leadership
 ======
 * Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms.
