@@ -66,7 +66,3 @@ Skills
 * python
 * git
 * Familiarity with JavaScript, SQL
-
-Summer Schools and Workshops
-======
-
