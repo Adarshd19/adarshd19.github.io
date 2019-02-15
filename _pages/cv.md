@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,7 +17,7 @@ Education
 * M.S. in applied and interdisciplinary mathematics, University of Michigan--Ann Arbor, 2014-2017
 * B.S. in mathematics (minors in statistics and computer science), University of Michigan--Dearborn, 2009-2013
 
-Teaching and research experience
+Teaching and work experience
 ======
 * Fall 2018: Graduate Student Instructor for EECS 545
   * University of Michigan--Ann Arbor
