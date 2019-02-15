@@ -48,17 +48,14 @@ Publications
   
 Talks and Posters
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 
 Fellowships, honors, and awards
 ======
 * National Science Foundation Graduate Research Fellowship, 2015
 * University of Michigan--Ann Arbor Rackham Merit Fellowhsip, 2014
 * University of Michigan--Dearborn Chancellor's medallion, 2013
-* University of Michigan--Dearborn Chancellor's scholarship, 2009
+* University of Michigan--Dearborn Chancellor's full tuition scholarship, 2009
 
 Service and leadership
 ======
