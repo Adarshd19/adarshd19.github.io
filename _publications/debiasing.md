@@ -2,7 +2,7 @@
 title: "Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes"
 collection: publications
 permalink: /publication/debiasing
-excerpt: 'This paper is about a regression based data preprocessing algorithm to remove unwanted bias due to a protected attribute like race or gender.'
+excerpt: 'This paper proposes a regression based data preprocessing algorithm to remove unwanted bias due to a protected attribute like race or gender.'
 date: 2018-07-15
 venue: 'Fairness, Accountability, and Transparency in Machine Learning (FAT-ML) workshop at the International Conference for Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/pdf/1807.00461.pdf'
