@@ -61,6 +61,16 @@ Service and leadership
 ======
 * Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms. [Github repo here.](https://github.com/Amandarg/MMLS2017PosterJudging)
 
+Summer Schools and Workshops
+======
+* Fundamentals of Data Analysis
+  * University of Wisconsin in Madison, WI, 2018
+* Representations of High Dimensional Data
+  * Mathematical Sciences Research Institue in Berkeley, CA, 2018
+* Workshop on Fair Interactive Learning and Fair Representations
+  * Computing Consortium Workshop in Philadelphia, PA, 2018
+* National Science Foundation Workshop on Trustworthy Algorithmic Decision Making
+  * National Science Foundation in Arlington, VA, 2017
 Skills
 ======
 * python
