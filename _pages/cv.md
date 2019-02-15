@@ -43,7 +43,7 @@ taught a python tutorial, graded exams, and answered questions on an online foru
 * Fall 2011 and Winter 2012: Mentor for advanced calculus I and grader for number theory
   * University of Michigan-Dearborn
 
-Selected Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
