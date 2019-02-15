@@ -39,6 +39,9 @@ taught a python tutorial, graded exams, and answered questions on an online foru
   * Williams College
   * Description: Researcher in number theory and probability.
   * Advisor: Stephen J. Miller
+  
+* Fall 2011 and Winter 2012: Mentor for advanced calculus I and grader for number theory
+  * University of Michigan-Dearborn
 
 Publications
 ======
@@ -48,7 +51,17 @@ Publications
   
 Talks and Posters
 ======
-
+* Debiasing representations by removing unwanted variation due to protected attributes
+  * Poster (presented by Laura Niss) at FAT-ML workshop at ICML in Stockholm, Sweeden, 2018.
+  * Poster at the University of Michigan MIDAS Annual Data for Public Good Symposium, 2019.
+  * Poster at the University of Michigan Women in Big Data at Michigan Symposium, 2018.
+* The Landscape of Non-Convex Quadratic Feasibility
+  * Talk (oral acceptance rate 14%) at IEEE ICASSP in Calgary, Alberta, Canada, 2018.
+  * Talk at the University of Michigan applied and interdisciplinary math seminar, 2018.
+  * Poster at the University of Michigan Student Symposium for Interdisciplinary Statistical Sciences, 2018.
+  * Poster at University of Michigan M Cubed Symposium, 2018. 
+* Fair Pipelines 
+  * Poster at the FAT-ML workshop at KDD in Halifax, Nova Scotia, Canada, 2017.
 
 Fellowships, honors, and awards
 ======
@@ -74,5 +87,5 @@ Summer Schools and Workshops
   
 Skills
 ======
-* python, git, matlab, 
+* python, git, matlab
 * Familiarity with JavaScript, SQL, C++
