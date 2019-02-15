@@ -71,8 +71,8 @@ Summer Schools and Workshops
   * Computing Consortium Workshop in Philadelphia, PA, 2018
 * National Science Foundation Workshop on Trustworthy Algorithmic Decision Making
   * National Science Foundation in Arlington, VA, 2017
+  
 Skills
 ======
-* python
-* git
-* Familiarity with JavaScript, SQL
+* python, git, matlab, 
+* Familiarity with JavaScript, SQL, C++
