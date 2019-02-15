@@ -62,14 +62,11 @@ Fellowships, honors, and awards
 
 Service and leadership
 ======
-* Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms.
+* Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms. [Github repo here.](https://github.com/Amandarg/MMLS2017PosterJudging).
 
 Skills
 ======
 * python
-  * sklearn
-  * numpy
-  * pandas
 * git
 * Familiarity with JavaScript, SQL
 
