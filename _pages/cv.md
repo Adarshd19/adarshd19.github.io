@@ -43,13 +43,13 @@ taught a python tutorial, graded exams, and answered questions on an online foru
 * Fall 2011 and Winter 2012: Mentor for advanced calculus I and grader for number theory
   * University of Michigan-Dearborn
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Selected Talks and Posters
+Talks and Posters
 ======
 * Debiasing representations by removing unwanted variation due to protected attributes
   * Poster (presented by Laura Niss) at FAT-ML workshop at ICML in Stockholm, Sweeden, 2018.
