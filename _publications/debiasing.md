@@ -10,7 +10,7 @@ citation: 'Amanda Bower, Laura Niss, Yuekai Sun, and Alex Vargo. (2018). &quot;D
 ---
 <b>Abstract</b>: We propose a regression-based approach to removing implicit biases in representations. On tasks where the protected attribute is observed, the method is statistically more efficient than known approaches. Further, we show that this approach leads to debiased representations that satisfy a first order approximation of conditional parity. Finally, we demonstrate the efficacy of the proposed approach by reducing racial bias in recidivism risk scores.
 
-<b>Authors</b>: Amanda Bower, Laura Niss, Yuekai Sun, and Alex Vargo. <i>Equal contribution.<i>
+<b>Authors</b>: Amanda Bower, Laura Niss, Yuekai Sun, and Alex Vargo. <i>Each author has an equal contribution.<i>
 
 [Download paper here](https://arxiv.org/pdf/1807.00461.pdf)
 
