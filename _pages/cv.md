@@ -43,13 +43,13 @@ taught a python tutorial, graded exams, and answered questions on an online foru
 * Fall 2011 and Winter 2012: Mentor for advanced calculus I and grader for number theory
   * University of Michigan-Dearborn
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks and Posters
+Selected Talks and Posters
 ======
 * Debiasing representations by removing unwanted variation due to protected attributes
   * Poster (presented by Laura Niss) at FAT-ML workshop at ICML in Stockholm, Sweeden, 2018.
@@ -63,7 +63,7 @@ Talks and Posters
 * Fair Pipelines 
   * Poster at the FAT-ML workshop at KDD in Halifax, Nova Scotia, Canada, 2017.
 
-Fellowships, honors, and awards
+Selected Fellowships, honors, and awards
 ======
 * National Science Foundation Graduate Research Fellowship, 2015
 * University of Michigan--Ann Arbor Rackham Merit Fellowhsip, 2014
