@@ -1,7 +1,7 @@
 ---
 title: "Training individually fair ML models with sensitive subspace robustness"
 collection: publications
-permalink: /publications/sensr
+permalink: /publication/sensr
 excerpt: 'Algorithm for training individually fair classifier using adversarial robustness'
 date: 2019-09-25
 venue: 'International Conference for Learning Representations (ICLR)'
