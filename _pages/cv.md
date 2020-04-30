@@ -72,6 +72,7 @@ Selected Fellowships, honors, and awards
 
 Service and leadership
 ======
+* NeurIPS reviewer 2019
 * Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms. [Github repo here.](https://github.com/Amandarg/MMLS2017PosterJudging)
 
 Summer Schools, Programs, and Workshops
