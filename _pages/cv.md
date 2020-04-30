@@ -52,7 +52,7 @@ Selected Publications
 Talks and Posters
 ======
 * Debiasing representations by removing unwanted variation due to protected attributes
-  * Poster (presented by Laura Niss) at FAT-ML workshop at ICML in Stockholm, Sweeden, 2018.
+  * Poster (presented by Laura Niss) at FAT-ML workshop at ICML in Stockholm, Sweden, 2018.
   * Poster at the University of Michigan MIDAS Annual Data for Public Good Symposium, 2019.
   * Poster at the University of Michigan Women in Big Data at Michigan Symposium, 2018.
 * The Landscape of Non-Convex Quadratic Feasibility
@@ -74,8 +74,10 @@ Service and leadership
 ======
 * Midwest Machine Learning Symposium Poster Contest Co-Organizer (June 2017): Designed, administered, and implemented code for a graduate student poster contest using rank aggregation algorithms. [Github repo here.](https://github.com/Amandarg/MMLS2017PosterJudging)
 
-Summer Schools and Workshops
+Summer Schools, Programs, and Workshops
 ======
+* Heidelberg Laurete Forum
+  * Heidelberg, Germany, 2019
 * Fundamentals of Data Analysis
   * University of Wisconsin in Madison, WI, 2018
 * Representations of High Dimensional Data
