@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/salient_features
 excerpt: 'We consider the problem of estimating a ranking on a set of items from noisy pairwise comparisons given item features. We address the fact that pairwise comparison data often reflects irrational choice, e.g. intransitivity. Our key observation is that two items compared in isolation from other items may be compared based on only a salient subset of features. '
 date: 2020-2-22
-venue: 'in submission'
+venue: International Conference for Machine Learning (ICML), 2020.
 paperurl: 'https://arxiv.org/abs/2002.09615'
 citation: ''
 ---
