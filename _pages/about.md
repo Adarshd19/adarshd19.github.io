@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD candidate in the [Applied and Interdisciplinary Mathematics](https://lsa.umich.edu/math/graduates/ph-d-programs/applied-and-interdisciplinary-mathematics--aim-.html) program at the University of Michigan. I am co-advised by [Laura Balzano](http://web.eecs.umich.edu/~girasole/) and [Martin Strauss](http://web.eecs.umich.edu/~martinjs/). I have been fortunate to be supported by a NSF graduate research fellowship.
+Hi! I am a Research Assistant in the Indian Institute of Science. I am working with Dr. Chandra Sekhar Seelamantula on various projects related to Medical Image Analysis.
 
-My research is broadly in machine learning. In particular, I am interested in both preference learning and algorithmic fairness.
+My research is broadly in Image Processing and Deep learning. I am interested in Computational Imaging, Computer Vision, Image Restoration algorithms apart from a whole host of other Signal Processing sub-domains. 
 
-See my publications [here](https://amandarg.github.io/publications/) and my CV [here](https://amandarg.github.io/cv/).
+
+See my publications [here](https://adarshd19.github.io/publications/) and my CV [here](https://adarshd19.github.io/cv/).

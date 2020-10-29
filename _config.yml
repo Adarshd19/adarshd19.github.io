@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amanda Bower"
+title                    : "Adarsh Djeacoumar"
 title_separator          : "-"
-name                     : &name "Amanda Bower"
-description              : &description "PhD candidate"
-url                      : https://amandarg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Adarsh Djeacoumar"
+description              : &description "Research Assistant in Indian Institute of Science"
+url                      : https://adarshd19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amanda Bower"
+  name             : "Adarsh Djeacoumar"
   avatar           : "IMG_3243.jpg"
-  bio              : "PhD candidate in Applied and Interdisciplinary Math"
-  location         : "University of Michigan"
+  bio              : "PhD aspirant in Signal Processing"
+  location         : "Indian Institute of Science"
   employer         :
   googlescholar    : 
-  email            : "amandarg@umich.edu"
+  email            : "adarshdjeacoumar98@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Amandarg"
+  github           : "Adarshd19"
   google_plus      :
   keybase          :
   instagram        :
